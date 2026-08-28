@@ -1,6 +1,6 @@
 # Gestion Optimale d'une Forêt
 
-Projet de recherche appliquée — L3 Ingénierie Mathématique, Université de Bordeaux (2025–2026)  
+Projet de recherche appliquée - L3 Ingénierie Mathématique, Université de Bordeaux (2025–2026)  
 Encadrant : Adrien Richou · Fondé sur : *Christensen & Strauch, arXiv:1909.09528, 2022*
 
 ---
