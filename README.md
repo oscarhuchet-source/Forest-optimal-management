@@ -7,7 +7,7 @@ Encadrant : Adrien Richou · Fondé sur : *Christensen & Strauch, arXiv:1909.095
 
 ## Contexte
 
-Ce projet traite de l'optimisation de stratégies d'exploitation forestière sous incertitude stochastique. La quantité de bois disponible est modélisée par une équation différentielle stochastique (EDS). L'objectif est de déterminer le seuil de coupe optimal maximisant le profit moyen à long terme — d'abord en supposant la dynamique connue, puis sans connaissance a priori via un algorithme d'apprentissage par renforcement.
+Ce projet traite de l'optimisation de stratégies d'exploitation forestière sous incertitude stochastique. La quantité de bois disponible est modélisée par une équation différentielle stochastique (EDS). L'objectif est de déterminer le seuil de coupe optimal maximisant le profit moyen à long terme - d'abord en supposant la dynamique connue, puis sans connaissance a priori via un algorithme d'apprentissage par renforcement.
 
 ## Méthodes
 
